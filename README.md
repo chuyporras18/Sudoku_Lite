@@ -6,6 +6,7 @@ Generate, validate and solve a sudoku using backtracking
 2. Recursion (Backtracking)
 3. MVVM architecture
 4. Gradle KTS
+5. Hilt
 
 # Features
 1. Generate a 9 x 9 grid with dividing lines.
