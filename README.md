@@ -1,7 +1,7 @@
 # Sudoku Resolver
 Generate, validate and solve a sudoku using backtracking
 
-# Developed with:
+# Implementations
 1. RecyclerView and DiffUtil
 2. Recursion (Backtracking)
 3. MVVM architecture
