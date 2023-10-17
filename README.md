@@ -26,3 +26,7 @@ Generate, validate and solve a sudoku using backtracking
 
 # Languagues
 1. Kotlin
+
+# App Languagues
+1. Spanish
+2. English (soon)
